@@ -1,0 +1,17 @@
+{
+    "name": "com.pggk.butanobridge",
+    "version": "1.0.0",
+    "displayName": "PGGK Butano Bridge",
+    "description": "Tool that exports Unity tilemaps to be used in butano (GValiente)",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "PGGKun",
+        "email": "slunngdev@gmail.com"
+    }
+}
