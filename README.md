@@ -14,7 +14,7 @@ First you need to create a Butano Settings, that will store your project (made w
 ![creating butano settings](https://github.com/pggkun/Butano-Bridge/blob/main/GitHub/step01.png)
 ![browsing prooject folders](https://github.com/pggkun/Butano-Bridge/blob/main/GitHub/step02.png)
 
-Then start creating your tilemaps. You will need to attach a **TilemapToBitmap** script to your tilemap gameObject.
+Then start creating your tilemaps. You will need to attach a **TilemapToBitmap** script to your tilemap gameObject. Don't forget to set yout tileset texture as readable.
 
 This script allows you to choose the tile size (8x8 or 16x16) and export single tilemaps (with its own json file).
 
