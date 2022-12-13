@@ -6,7 +6,7 @@ Using Unity package manager, select: **Add package from git URL** with the link:
 ```
 https://github.com/pggkun/Butano-Bridge.git?path=/Assets/Release
 ```
-or download the **.unitypackage** from the last release at releases page
+or download the **.unitypackage** from the last release at [releases page](https://github.com/pggkun/Butano-Bridge/releases)
 
 ## How to use
 First you need to create a Butano Settings, that will store your project (made with butano) folders.
